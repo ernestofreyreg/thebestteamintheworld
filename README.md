@@ -1,2 +1,3 @@
 # thebestteamintheworld
-[Issac](Issac.md)
+
+[Rajae Lindsay](Rajae.md)
